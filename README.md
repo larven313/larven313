@@ -37,7 +37,8 @@
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larven313)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larven313&show_icons=true&theme=radical)
 
 [instagram]: https://instagram.com/sukmax313
 [linkedin]: https://www.linkedin.com/in/sukma-hidayatullah-74a715220/

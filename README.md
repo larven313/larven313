@@ -1,4 +1,4 @@
-# Hi there, I'm Sukma - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Sukma Hidayatullah 👋 
 
 ## I'm a Student at STT Terpadu Nurul Fikri
 

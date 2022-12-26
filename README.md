@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about mobile
-- ⚡ Fun fact: I love to playing game
+- ⚡ Fun fact: I like to play games
 
 ### Connect with me:
 

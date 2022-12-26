@@ -1,4 +1,5 @@
 # Hi there, I'm Sukma Hidayatullah 👋 
+[![Years Badge](https://badges.pufler.dev/years/larven313)](https://badges.pufler.dev)
 
 ## I'm a Student at STT Terpadu Nurul Fikri
 

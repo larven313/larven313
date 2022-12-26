@@ -1,5 +1,5 @@
 # Hi there, I'm Sukma Hidayatullah 👋 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=larven313.visitor-badge)
 
 ## I'm a Student at STT Terpadu Nurul Fikri
 

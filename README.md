@@ -10,8 +10,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sukma-hidayatullah-74a715220)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukma-hidayatullah-74a715220/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sukma-hidayatullah-74a715220)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/sukmax313#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/sukmax313#gh-dark-mode-only)

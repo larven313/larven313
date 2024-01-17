@@ -4,7 +4,7 @@
 ## I'm a Student at STT Terpadu Nurul Fikri
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about mobile development
+- 🥅 2024 Goals: Learn more about mobile development
 - ⚡ Fun fact: I like to play games
 
 ### Connect with me:
